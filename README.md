@@ -1,6 +1,6 @@
 # EnergyGPT
 
-This repository contains the official implementation of "EnergyGPT: Large Language Models for Energy Load Forecasting".
+This repository contains the implementation of "EnergyGPT: Fine-tuning Large Language Model for Multi-energy Load Forecasting".
 
 ## Data Description
 
